@@ -55,7 +55,7 @@ const Myhomeapp = () => {
               <div className="collapse navbar-collapse" id="navbarNav" style={{ backgroundColor: "#d4d0d4" }}>
                 <ul className="navbar-nav">
                   <li className="nav-item">
-                    <Link to="/" className="nav-link">Home</Link>
+                    <Link to="/agriculture_crab" className="nav-link">Home</Link>
                   </li>
                   <li className="nav-item">
                     <Link to="/About" className="nav-link">About</Link>
